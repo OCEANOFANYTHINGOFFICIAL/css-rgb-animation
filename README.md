@@ -13,6 +13,8 @@ made by [OCEAN OF ANYTING](https://oceanofanythingg.blogspot.com)
 
 # Example
 ```shell
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -20,6 +22,11 @@ made by [OCEAN OF ANYTING](https://oceanofanythingg.blogspot.com)
     <link rel="shortcut icon" href="https://oceanofanythingg.blogspot.com/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="https://oceanofanythingofficial.github.io/css-rgb-animation/rgb.css">
     <title>CSS RGB Animation</title>
+    </head>
+<body>
+    <h1>Simple Rgb Css Animation</h1>
+</body>
+</html>
 </head>
 ```
  
