@@ -1,16 +1,10 @@
 # css-rgb-animation
 
-add this class names and this color code ( color: #0f0; ) to your code to use this rgb animation 
+copy The Following Code to use rgb animation in your text.
+you just have to copy the following code in your html and css. thats it.
+It just quite easy like adding cdn fonts or cdn css in your project. Have a Good Day.
 
- Normal RGB Effect --  (animate_rgb) 
-
-
-or
-
-
-
-
-copy The Following Code 
+made by [OCEAN OF ANYTING]('https://oceanofanythingg.blogspot.com')
 
 #                              in html head
 ```shell
