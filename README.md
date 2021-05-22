@@ -11,6 +11,17 @@ made by [OCEAN OF ANYTING](https://oceanofanythingg.blogspot.com)
 <link rel="stylesheet" href="https://oceanofanythingofficial.github.io/css-rgb-animation/rgb.css">
 ```
 
+
+
+  # Copy and past the following code in css
+
+```shell
+color: #0f0;
+animation: animate_rgb 3s linear infinite;
+```
+    
+    
+    
 # Example
 ```shell
 <!DOCTYPE html>
@@ -36,11 +47,3 @@ made by [OCEAN OF ANYTING](https://oceanofanythingg.blogspot.com)
 </head>
 ```
  
-
-  # Copy and past the following code in css
-
-```shell
-color: #0f0;
-animation: animate_rgb 3s linear infinite;
-```
-    
