@@ -12,13 +12,12 @@ or
 
 copy The Following Code 
 
-                              in html head
+#                              in html head
 
-example{[
-<link rel="stylesheet" href="https://oceanofanythingofficial.github.io/css-rgb-animation/rgb.css">
- ]}
+{{<link rel="stylesheet" href="https://oceanofanythingofficial.github.io/css-rgb-animation/rgb.css">}}
+ 
 
-                                in css
+  #                              in css
 
-    color: #0f0;
-    animation: animate_rgb 3s linear infinite; 
+    {{color: #0f0;}}
+    {{animation: animate_rgb 3s linear infinite;}}
