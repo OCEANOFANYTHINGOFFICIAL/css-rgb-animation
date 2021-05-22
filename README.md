@@ -22,6 +22,12 @@ made by [OCEAN OF ANYTING](https://oceanofanythingg.blogspot.com)
     <link rel="shortcut icon" href="https://oceanofanythingg.blogspot.com/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="https://oceanofanythingofficial.github.io/css-rgb-animation/rgb.css">
     <title>CSS RGB Animation</title>
+    <style>
+   h1{
+    color: #0f0;
+    animation: animate_rgb 3s linear infinite;
+}
+    </style>
     </head>
 <body>
     <h1>Simple Rgb Css Animation</h1>
