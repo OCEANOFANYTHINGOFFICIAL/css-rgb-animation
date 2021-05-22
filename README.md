@@ -28,7 +28,11 @@ animation: animate_rgb 3s linear infinite;
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    
+    
     <link rel="stylesheet" href="https://oceanofanythingofficial.github.io/css-rgb-animation/rgb.css">
+    
+    
     <title>CSS RGB Animation</title>
     <style>
    h1{
