@@ -27,7 +27,7 @@ copy The Following Code
     padding: 0;
     background-color: #000;
 }
-h1{
+.rgb{
     text-align: center;
     align-items: center;
     justify-content: center;
@@ -57,13 +57,4 @@ h1{
     100%{
         filter: hue-rotate(360deg);
     }
-}
-p:hover{
-    text-align: center;
-    font-size: 4rem;
-    font-family: 'Open Sans', sans-serif;
-    transition: all .5s ease;
-    animation: animate_rgb 3s linear infinite;
-    color: #0f0;
-    transition: all 999s ease;
 }
