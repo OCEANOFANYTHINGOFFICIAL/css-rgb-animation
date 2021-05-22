@@ -22,11 +22,6 @@ copy The Following Code
     animation: animate_rgb 3s linear infinite; 
 
  */
-*{
-    margin: 0;
-    padding: 0;
-    background-color: #000;
-}
 .rgb{
     text-align: center;
     align-items: center;
