@@ -12,7 +12,7 @@ made by [OCEAN OF ANYTING](https://oceanofanythingg.blogspot.com)
 ```
 # And This Class To Your Element
 ```shell
-.rgb
+rgb
 ```
 
 
