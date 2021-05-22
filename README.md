@@ -13,8 +13,10 @@ or
 copy The Following Code 
 
 #                              in html head
-
+```shell
 {{<link rel="stylesheet" href="https://oceanofanythingofficial.github.io/css-rgb-animation/rgb.css">}}
+```
+
  
 
   #                              in css
