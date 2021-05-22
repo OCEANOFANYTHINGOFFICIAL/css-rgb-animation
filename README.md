@@ -4,7 +4,7 @@ copy The Following Code to use rgb animation in your text.
 you just have to copy the following code in your html and css. thats it.
 It just quite easy like adding cdn fonts or cdn css in your project. Have a Good Day.
 
-made by [OCEAN OF ANYTING]('https://oceanofanythingg.blogspot.com')
+made by [OCEAN OF ANYTING](https://oceanofanythingg.blogspot.com)
 
 #                              in html head
 ```shell
