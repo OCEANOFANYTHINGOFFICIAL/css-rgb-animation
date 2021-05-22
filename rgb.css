@@ -23,15 +23,9 @@ copy The Following Code
 
  */
 .rgb{
-    text-align: center;
-    align-items: center;
-    justify-content: center;
-    font-size: 99px;
-    font-family: 'Open Sans', sans-serif;
-    transition: all .5s ease;
+    
     animation: animate_rgb 3s linear infinite;
     color: #0f0;
-    transition: all 999s ease;
 }
 @keyframes animate_rgb {
    0%{
