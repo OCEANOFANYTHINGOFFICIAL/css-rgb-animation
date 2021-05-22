@@ -10,14 +10,16 @@ made by [OCEAN OF ANYTING](https://oceanofanythingg.blogspot.com)
 ```shell
 <link rel="stylesheet" href="https://oceanofanythingofficial.github.io/css-rgb-animation/rgb.css">
 ```
-
+#and This Class To Your Element
+```shell
+.rgb
+```
 
 
   # Copy and past the following code in css
 
 ```shell
-color: #0f0;
-animation: animate_rgb 3s linear infinite;
+background-color: #000;
 ```
     
     
