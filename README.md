@@ -10,7 +10,7 @@ made by [OCEAN OF ANYTING](https://oceanofanythingg.blogspot.com)
 ```shell
 <link rel="stylesheet" href="https://oceanofanythingofficial.github.io/css-rgb-animation/rgb.css">
 ```
-#and This Class To Your Element
+# And This Class To Your Element
 ```shell
 .rgb
 ```
