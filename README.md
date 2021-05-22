@@ -6,14 +6,25 @@ It just quite easy like adding cdn fonts or cdn css in your project. Have a Good
 
 made by [OCEAN OF ANYTING](https://oceanofanythingg.blogspot.com)
 
-#                              in html head
+# Copy and past the following code in html head
 ```shell
 <link rel="stylesheet" href="https://oceanofanythingofficial.github.io/css-rgb-animation/rgb.css">
 ```
 
+# Example
+```shell
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="https://oceanofanythingg.blogspot.com/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="https://oceanofanythingofficial.github.io/css-rgb-animation/rgb.css">
+    <title>CSS RGB Animation</title>
+</head>
+```
  
 
-  #                              in css
+  # Copy and past the following code in css
 
 ```shell
 color: #0f0;
