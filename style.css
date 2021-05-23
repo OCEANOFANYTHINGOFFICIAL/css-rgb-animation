@@ -35,8 +35,7 @@ copy The Following Code
     font-family: 'Open Sans', sans-serif;
     transition: all .5s ease;
     animation: animate_rgb 3s linear infinite;
-    color: #0f0;
-    transition: all 999s ease;
+    color: #0f0
 }
 @keyframes animate_rgb {
    0%{
