@@ -9,20 +9,20 @@ made by [OCEAN OF ANYTING](https://oceanofanythingg.blogspot.com)
 # Copy and past the following code in html head
 ```shell
 <link rel="stylesheet" href="https://oceanofanythingofficial.github.io/css-rgb-animation/rgb.css">
+
 ```
+or
+
+# Copy and past the following code in css
+
+```shell
+@import url(https://oceanofanythingofficial.github.io/css-rgb-animation/rgb.css);
+```
+    
 # And This Class To Your Element
 ```shell
 rgb
 ```
-
-
-  # Copy and past the following code in css
-
-```shell
-background-color: #000;
-```
-    
-    
     
 # Example
 ```shell
