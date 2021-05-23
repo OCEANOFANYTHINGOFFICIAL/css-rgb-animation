@@ -24,7 +24,7 @@ or
 rgb
 ```
     
-# Example
+# Example HTML
 ```shell
 <!DOCTYPE html>
 <html lang="en">
@@ -49,4 +49,11 @@ rgb
 </html>
 </head>
 ```
- 
+ # Example CSS
+ ```
+ @import url(https://oceanofanythingofficial.github.io/css-rgb-animation/rgb.css);
+*{
+    margin: 0;
+    padding: 0;
+}
+ ```
