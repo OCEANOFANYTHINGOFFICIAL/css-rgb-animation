@@ -50,10 +50,10 @@ rgb
 </head>
 ```
  # Example CSS
- ```
+ `css
  @import url(https://oceanofanythingofficial.github.io/css-rgb-animation/rgb.css);
 *{
     margin: 0;
     padding: 0;
 }
- ```
+ `
