@@ -7,7 +7,7 @@ It just quite easy like adding cdn fonts or cdn css in your project. Have a Good
 made by [OCEAN OF ANYTING](https://oceanofanythingg.blogspot.com)
 
 # Copy and past the following code in html head
-```shell
+```html
 <link rel="stylesheet" href="https://oceanofanythingofficial.github.io/css-rgb-animation/rgb.css">
 
 ```
@@ -15,7 +15,7 @@ or
 
 # Copy and past the following code in css
 
-```shell
+```css
 @import url(https://oceanofanythingofficial.github.io/css-rgb-animation/rgb.css);
 ```
     
@@ -25,7 +25,7 @@ rgb
 ```
     
 # Example HTML
-```shell
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
