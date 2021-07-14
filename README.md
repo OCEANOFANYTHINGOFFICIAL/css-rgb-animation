@@ -36,15 +36,9 @@ rgb
     
     
     <title>CSS RGB Animation</title>
-    <style>
-   h1{
-    color: #0f0;
-    animation: animate_rgb 3s linear infinite;
-}
-    </style>
     </head>
 <body>
-    <h1>Simple Rgb Css Animation</h1>
+    <h1 class="rgb">Simple Rgb Css Animation</h1>
 </body>
 </html>
 </head>
